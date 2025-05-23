@@ -1,0 +1,21 @@
+{
+  "name": "prime-react-dronahq",
+  "version": "1.0.0",
+  "description": "PrimeReact bundle for use with DronaHQ",
+  "main": "dist/primereact.bundle.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "primeicons": "^6.0.1",
+    "primereact": "^10.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
